@@ -1,0 +1,1 @@
+cmd_/home/yb/linux/IMX6ULL/Drivers/Linux_Drivers/6_gpiobeep/gpiobeep.ko := arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/yb/linux/IMX6ULL/Drivers/Linux_Drivers/6_gpiobeep/gpiobeep.ko /home/yb/linux/IMX6ULL/Drivers/Linux_Drivers/6_gpiobeep/gpiobeep.o /home/yb/linux/IMX6ULL/Drivers/Linux_Drivers/6_gpiobeep/gpiobeep.mod.o

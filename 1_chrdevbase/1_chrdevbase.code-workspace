@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"module.h": "c",
+			"moduleparam.h": "c",
+			"delay.h": "c",
+			"types.h": "c"
+		}
+	}
+}
